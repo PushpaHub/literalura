@@ -123,7 +123,7 @@ Para poder probar o usar la aplicación se requeiere seguir los siguientes pasos
 1. Descarga todos los archivos y carpetas en una carpeta en tu computadora.
     - esto puedes hacer usando la consola o precionando boton verde "Code" en el repositorio de GitHub y escoges Download ZIP
 2. Crea la base de datos de postgre en tu computadora
-3. Define las siguientes variables de retorno en tu sistema operativo (Windows o Mac):
+3. Define las siguientes variables de entorno en tu sistema operativo (Windows o Mac):
     - DB_HOST   tu_host (si tienes la base de datos en tu computadora, pones localhost)
     - DB_NAME_LITERALURA   nombre_de_tu_base_de_datos
     - DB_USER   postgre 
